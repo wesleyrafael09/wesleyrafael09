@@ -20,7 +20,6 @@ Automatização de tarefas rotineiras: reduzindo custos e minimizando o tempo de
   
 - 📫 E-mail: **wesley.rafael09@gmail.com**
 
-- 📄 Linkedin.
 
 </h3>
 
