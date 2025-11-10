@@ -1,10 +1,10 @@
 <h1 align="center">Olá 👋, Eu sou Wesley Rafael</h1>
 <h3 align="center"> 
-Profissional com mais de 5 anos de experiência em Tecnologia da Informação (TI), com atuação em suporte técnico, Service Desk, monitoramento de redes (NOC) e serviços em campo (Field Service). Minha trajetória abrange empresas nacionais e multinacionais de médio e grande porte, principalmente nos setores de TI e varejo, com foco em garantir a continuidade operacional e a excelência no atendimento.
+Profissional com mais de 5 anos de experiência em Tecnologia da Informação, atuando em áreas como suporte técnico, monitoramento, automação de processos e análise de dados. Atualmente, exerço o cargo de Analista de Dados Pleno, com foco em Business Intelligence, integração de dados e desenvolvimento de dashboards interativos.
 
-Nos últimos anos, venho combinando minhas habilidades em suporte técnico com análise de dados. Tenho aplicado habilidades analíticas e técnicas para solucionar problemas, extrair insights valiosos de dados complexos e contribuir para a melhoria contínua de processos.
+Tenho sólida vivência na criação de pipelines em Python e SQL, automações de ETL, análise de indicadores e estruturação de dashboards em Power BI, Grafana, MicroStrategy e Tableau, garantindo maior eficiência operacional e suporte à tomada de decisão. Também possuo experiência com ServiceNow, automação de relatórios, e modelos preditivos em scikit-learn, aplicando dados para otimizar processos e reduzir esforço das equipes.
 
-Domino linguagens de programação como Python, R, SQL e NoSQL, além de ferramentas de BI (Power BI e Pentaho). Também possuo experiência prática com sistemas de ticket manager e plataformas de CRM, como Salesforce, Zendesk, ServiceNow e Dynamics CRM, entre outros. Minha formação inclui conhecimentos sólidos em SAP (PP, MM, QM) e AWS (EC2, S3, SQS), além de habilidades em automação de processos por meio de macros no Excel.
+Sou um analista orientado a resultados, com facilidade em traduzir dados técnicos em insights estratégicos. Busco atuar em um ambiente desafiador, onde possa aplicar minha experiência com tecnologia, dados para gerar valor real aos projetos com inovação, qualidade técnica e visão analítica.
 
 Entre minhas principais realizações, destaco:
 
