@@ -2,7 +2,7 @@
 <h3 align="center"> 
 Profissional com mais de 5 anos de experiência em Tecnologia da Informação, atuando em áreas como suporte técnico, monitoramento, automação, processos e análise de dados. Atualmente, exerço o cargo de Analista de Dados Pleno, com foco em Business Intelligence, integração de dados e desenvolvimento de dashboards interativos.
 
-Tenho sólida vivência na criação de pipelines em Python e SQL, automações de ETL, análise de indicadores e estruturação de dashboards em Power BI, Grafana, MicroStrategy e Tableau, garantindo maior eficiência operacional e suporte à tomada de decisão. Também possuo experiência com ServiceNow, automação de relatórios, e modelos preditivos em scikit-learn, aplicando dados para otimizar processos e reduzir esforço das equipes.
+Tenho sólida vivência na criação de pipelines em Python e SQL, automações de ETL, análise de indicadores e estruturação de dashboards em Power BI, Grafana e Tableau, garantindo maior eficiência operacional e suporte à tomada de decisão. Também possuo experiência com ServiceNow, automação de relatórios, e modelos preditivos em scikit-learn, aplicando dados para otimizar processos e reduzir esforço.
 
 Sou um analista orientado a resultados, com facilidade em traduzir dados técnicos em insights estratégicos. Busco atuar em um ambiente desafiador, onde possa aplicar minha experiência com tecnologia, dados para gerar valor real aos projetos com inovação, qualidade técnica e visão analítica.
 
@@ -11,7 +11,6 @@ Entre minhas principais realizações, destaco:
 Criação de bases de conhecimento e padronização de processos: agilizando a resolução de problemas e promovendo maior eficiência operacional.
 Desenvolvimento de análises proativas e monitoramento detalhado: identificando e resolvendo falhas antes que afetassem as operações.
 Automatização de tarefas rotineiras: reduzindo custos e minimizando o tempo de inatividade com soluções inovadoras e personalizadas.
-Atualmente, estou em transição para a área de dados, com o objetivo de alavancar minha experiência técnica e meu conhecimento em análise para contribuir com soluções baseadas em dados que gerem impacto positivo nas organizações. Sou motivado por desafios e por ambientes dinâmicos, onde posso combinar criatividade e habilidades analíticas para entregar resultados significativos.
   
 - 📫 Você me achará através do E-mail: **wesley.rafael09@gmail.com**
 
