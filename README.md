@@ -17,6 +17,10 @@ Entre minhas principais realizações, destaco:
 Criação de bases de conhecimento e padronização de processos: agilizando a resolução de problemas e promovendo maior eficiência operacional.
 Desenvolvimento de análises proativas e monitoramento detalhado: identificando e resolvendo falhas antes que afetassem as operações.
 Automatização de tarefas rotineiras: reduzindo custos e minimizando o tempo de inatividade com soluções inovadoras e personalizadas.
+
+Acesse meus Projetos:
+https://github.com/wesleyrafael09/Projetos
+
   
 - 📫 E-mail: **wesley.rafael09@gmail.com**
 
