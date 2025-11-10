@@ -2,9 +2,15 @@
 <h3 align="center"> 
 Profissional com mais de 5 anos de experiência em Tecnologia da Informação, atuando em áreas como suporte técnico, monitoramento, automação, processos e análise de dados. Atualmente, exerço o cargo de Analista de Dados Pleno, com foco em Business Intelligence, integração de dados e desenvolvimento de dashboards interativos.
 
+
+
 Tenho sólida vivência na criação de pipelines em Python e SQL, automações de ETL, análise de indicadores e estruturação de dashboards em Power BI, Grafana e Tableau, garantindo maior eficiência operacional e suporte à tomada de decisão. Também possuo experiência com ServiceNow, automação de relatórios, e modelos preditivos em scikit-learn, aplicando dados para otimizar processos e reduzir esforço.
 
+
+
 Sou um analista orientado a resultados, com facilidade em traduzir dados técnicos em insights estratégicos. Busco atuar em um ambiente desafiador, onde possa aplicar minha experiência com tecnologia, dados para gerar valor real aos projetos com inovação, qualidade técnica e visão analítica.
+
+
 
 Entre minhas principais realizações, destaco:
 
