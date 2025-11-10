@@ -18,9 +18,9 @@ Criação de bases de conhecimento e padronização de processos: agilizando a r
 Desenvolvimento de análises proativas e monitoramento detalhado: identificando e resolvendo falhas antes que afetassem as operações.
 Automatização de tarefas rotineiras: reduzindo custos e minimizando o tempo de inatividade com soluções inovadoras e personalizadas.
   
-- 📫 Você me achará através do E-mail: **wesley.rafael09@gmail.com**
+- 📫 E-mail: **wesley.rafael09@gmail.com**
 
-- 📄 Meu Resumo Profissional está disponível em meu Linkedin.
+- 📄 Linkedin.
 
 </h3>
 
