@@ -1,22 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Wesley Rafael</h1>
 <h3 align="center"> 
-Profissional com mais de 5 anos de experiência em Tecnologia da Informação, atuando em áreas como suporte técnico, monitoramento, automação, processos e análise de dados. Atualmente, exerço o cargo de Analista de Dados Pleno, com foco em Business Intelligence, integração de dados e desenvolvimento de dashboards interativos.
+Atuo há mais de 5 anos na área de Tecnologia, sendo os últimos dedicados a Data & Analytics, onde desenvolvo pipelines de ETL/ELT em Python, integração de múltiplas fontes (SQL Server, CSV, APIs REST, ServiceNow e WMS), automação de processos de dados e criação de soluções robustas de transformação e padronização utilizando Pandas, NumPy e Unidecode.
+No meu papel atual como Analista de Dados Pleno, sou responsável pela orquestração de rotinas de ingestão, limpeza, enriquecimento e modelagem, garantindo confiabilidade e rastreabilidade das entregas. Além da engenharia, atuo de forma estruturada na documentação técnica dos pipelines, controle de versões e melhoria contínua dos processos.
 
+Tenho experiência com automação de fluxos e integrações, incluindo scripts que reduzem significativamente o tempo de extração e carga, além de rotinas envolvendo Power Automate + Python Linguagem R. Também possuo vivência prática com modelagem e organização de dados, alinhada aos princípios de arquiteturas como Medallion (Bronze, Silver, Gold), especialmente em camadas de padronização e enriquecimento.
 
+Possuo sólida experiência em ambientes corporativos de grande porte, lidando com volume considerável de informações, padronização, governança e confiabilidade operacional, sempre com foco em eficiência, escalabilidade e boas práticas de desenvolvimento.
 
-Tenho sólida vivência na criação de pipelines em Python e SQL, automações de ETL, análise de indicadores e estruturação de dashboards em Power BI, Grafana e Tableau, garantindo maior eficiência operacional e suporte à tomada de decisão. Também possuo experiência com ServiceNow, automação de relatórios, e modelos preditivos em scikit-learn, aplicando dados para otimizar processos e reduzir esforço.
-
-
-
-Sou um analista orientado a resultados, com facilidade em traduzir dados técnicos em insights estratégicos. Busco atuar em um ambiente desafiador, onde possa aplicar minha experiência com tecnologia, dados para gerar valor real aos projetos com inovação, qualidade técnica e visão analítica.
-
-
-
-Entre minhas principais realizações, destaco:
-
-Criação de bases de conhecimento e padronização de processos: agilizando a resolução de problemas e promovendo maior eficiência operacional.
-Desenvolvimento de análises proativas e monitoramento detalhado: identificando e resolvendo falhas antes que afetassem as operações.
-Automatização de tarefas rotineiras: reduzindo custos e minimizando o tempo de inatividade com soluções inovadoras e personalizadas.
+Estou cursando MBA em Data Science & Analytics, o que complementa minha atuação prática com base teórica em engenharia, machine learning e Big Data snowfleak e Apache Airflow. Também possuo cursos e certificados em Python, Power BI e fundamentos de IA, reforçando meu compromisso com evolução contínua.
 
 Acesse meus Projetos:
 https://github.com/wesleyrafael09/Projetos
