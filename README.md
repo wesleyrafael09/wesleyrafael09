@@ -9,6 +9,7 @@ Possuo sólida experiência em ambientes corporativos de grande porte, lidando c
 
 Estou cursando MBA em Data Science & Analytics, o que complementa minha atuação prática com base teórica em engenharia, machine learning e Big Data snowfleak e Apache Airflow. Também possuo cursos e certificados em Python, Power BI e fundamentos de IA, reforçando meu compromisso com evolução contínua.
 
+
 Acesse meus Projetos:
 https://github.com/wesleyrafael09/Projetos
 
